@@ -1,3 +1,6 @@
+getwd()
+MuscleMass<-read.csv("MuscleMass.csv")
+
 MuscleMass
 x <- MuscleMass$Age
 y <- MuscleMass$MuscleMass
